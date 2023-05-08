@@ -4,7 +4,7 @@ import Cesta from './src/telas/Cesta';
 export default function App() {
   return (
     <SafeAreaView>
-      <statusbar/>
+      <StatusBar/>
       <Cesta/>
     </SafeAreaView>
   );
